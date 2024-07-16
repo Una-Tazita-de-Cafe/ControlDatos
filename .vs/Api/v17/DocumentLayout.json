@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|c:\\users\\e-ip_l_04\\documents\\api\\api\\api\\controllers\\tvshowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|solutionrelative:api\\controllers\\tvshowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|c:\\users\\e-ip_l_04\\documents\\api\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|c:\\users\\e-ip_l_04\\documents\\api\\api\\api\\data\\crud_listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|solutionrelative:api\\data\\crud_listado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|c:\\users\\e-ip_l_04\\documents\\api\\api\\api\\interface\\iconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|solutionrelative:api\\interface\\iconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|c:\\users\\e-ip_l_04\\documents\\api\\api\\api\\interface\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|solutionrelative:api\\interface\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|c:\\users\\e-ip_l_04\\documents\\api\\api\\api\\model\\mtvshowclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|solutionrelative:api\\model\\mtvshowclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|c:\\users\\e-ip_l_04\\documents\\api\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|c:\\users\\e-ip_l_04\\documents\\api\\api\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F5E8E64E-5FCE-4A42-B18A-CC3791701EEC}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E-IP_L_04\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\build\\Swashbuckle.AspNetCore.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E-IP_L_04\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\build\\Microsoft.Extensions.ApiDescription.Server.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E-IP_L_04\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\build\\Microsoft.Extensions.ApiDescription.Server.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2025,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TvShowController.cs",
+              "DocumentMoniker": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Controllers\\TvShowController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\TvShowController.cs",
+              "ToolTip": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Controllers\\TvShowController.cs",
+              "RelativeToolTip": "Api\\Controllers\\TvShowController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwC0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:30:31.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T17:53:56.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Api",
+              "DocumentMoniker": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T17:53:22.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.Extensions.ApiDescription.Server.props",
+              "DocumentMoniker": "C:\\Users\\E-IP_L_04\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\build\\Microsoft.Extensions.ApiDescription.Server.props",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\build\\Microsoft.Extensions.ApiDescription.Server.props",
+              "ToolTip": "C:\\Users\\E-IP_L_04\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\build\\Microsoft.Extensions.ApiDescription.Server.props [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\build\\Microsoft.Extensions.ApiDescription.Server.props [Solo lectura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-26T17:22:49.791Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:32:34.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Swashbuckle.AspNetCore.props",
+              "DocumentMoniker": "C:\\Users\\E-IP_L_04\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\build\\Swashbuckle.AspNetCore.props",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\build\\Swashbuckle.AspNetCore.props",
+              "ToolTip": "C:\\Users\\E-IP_L_04\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\build\\Swashbuckle.AspNetCore.props [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\build\\Swashbuckle.AspNetCore.props [Solo lectura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-26T17:22:44.387Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IConsulta.cs",
+              "DocumentMoniker": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Interface\\IConsulta.cs",
+              "RelativeDocumentMoniker": "Api\\Interface\\IConsulta.cs",
+              "ToolTip": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Interface\\IConsulta.cs",
+              "RelativeToolTip": "Api\\Interface\\IConsulta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:58:30.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Interface\\ICrud.cs",
+              "RelativeDocumentMoniker": "Api\\Interface\\ICrud.cs",
+              "ToolTip": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Interface\\ICrud.cs",
+              "RelativeToolTip": "Api\\Interface\\ICrud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:29:17.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRUD_Listado.cs",
+              "DocumentMoniker": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Data\\CRUD_Listado.cs",
+              "RelativeDocumentMoniker": "Api\\Data\\CRUD_Listado.cs",
+              "ToolTip": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Data\\CRUD_Listado.cs",
+              "RelativeToolTip": "Api\\Data\\CRUD_Listado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:42:47.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MTvShowClass.cs",
+              "DocumentMoniker": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Model\\MTvShowClass.cs",
+              "RelativeDocumentMoniker": "Api\\Model\\MTvShowClass.cs",
+              "ToolTip": "C:\\Users\\E-IP_L_04\\Documents\\Api\\Api\\Api\\Model\\MTvShowClass.cs",
+              "RelativeToolTip": "Api\\Model\\MTvShowClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:11:30.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Extensions.ApiDescription.Server.targets",
+              "DocumentMoniker": "C:\\Users\\E-IP_L_04\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\build\\Microsoft.Extensions.ApiDescription.Server.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\build\\Microsoft.Extensions.ApiDescription.Server.targets",
+              "ToolTip": "C:\\Users\\E-IP_L_04\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\build\\Microsoft.Extensions.ApiDescription.Server.targets [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\build\\Microsoft.Extensions.ApiDescription.Server.targets [Solo lectura]",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-26T17:22:50.828Z",
+              "EditorCaption": " [Solo lectura]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

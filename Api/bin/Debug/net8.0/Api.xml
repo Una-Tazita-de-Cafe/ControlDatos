@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Controllers.TvShowController.Get">
+            <summary>
+            Obtiene todos los programas de TV.
+            </summary>
+            <returns>Lista de todos los programas de TV.</returns>
+        </member>
+        <member name="M:Api.Controllers.TvShowController.Get(System.Int32)">
+            <summary>
+            Obtiene un programa de TV por su ID.
+            </summary>
+            <param name="id">ID del programa de TV.</param>
+            <returns>El programa de TV correspondiente al ID especificado.</returns>
+            <response code="200">Programa de TV encontrado correctamente.</response>
+            <response code="404">Programa de TV no encontrado.</response>
+        </member>
+        <member name="M:Api.Controllers.TvShowController.Post(Api.Model.MTvShowClass)">
+            <summary>
+            Añade un nuevo programa de TV.
+            </summary>
+            <param name="tvShow">Datos del nuevo programa de TV.</param>
+            <returns>El programa de TV añadido.</returns>
+            <response code="201">Programa de TV creado correctamente.</response>
+            <response code="400">Datos de solicitud inválidos.</response>
+        </member>
+        <member name="M:Api.Controllers.TvShowController.Put(System.Int32,Api.Model.MTvShowClass)">
+             <summary>
+             Actualiza un programa de TV existente por su ID.
+             </summary>
+             <remarks>
+             Ejemplo de solicitud:
+            
+                 PUT /api/tvshow/1
+                 {
+                     "id": 1,
+                     "name": "Nuevo nombre del programa de TV",
+                     "favorite": true
+                 }
+            
+             </remarks>
+             <param name="id">ID del programa de TV a actualizar.</param>
+             <param name="updatedTvShow">Datos actualizados del programa de TV.</param>
+             <returns>Respuesta HTTP sin contenido.</returns>
+             <response code="204">Actualización exitosa.</response>
+             <response code="400">Datos de solicitud inválidos.</response>
+             <response code="404">Programa de TV no encontrado.</response>
+        </member>
+        <member name="M:Api.Controllers.TvShowController.Delete(System.Int32)">
+            <summary>
+            Elimina un programa de TV por su ID.
+            </summary>
+            <param name="id">ID del programa de TV a eliminar.</param>
+            <returns>Respuesta HTTP sin contenido.</returns>
+            <response code="204">Eliminación exitosa.</response>
+            <response code="404">Programa de TV no encontrado.</response>
+        </member>
+    </members>
+</doc>
